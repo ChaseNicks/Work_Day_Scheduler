@@ -70,4 +70,8 @@ textarea {
   transition: all 0.3s ease-in-out;
 }
 
+.day {
+  font-size: 30px;
+  text-decoration: underline;
+}
 
