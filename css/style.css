@@ -75,3 +75,38 @@ textarea {
   text-decoration: underline;
 }
 
+@media screen and (max-width: 1092px) {
+  #container {
+    width: 100%;
+  }
+  .time-block {
+    width: 100%;
+  }
+  .hour {
+    padding-left: 0px;
+    font-size: 15px;
+  }
+}
+
+@media screen and (max-width: 950px) {
+  #container {
+    width: 100%;
+  }
+  .time-block {
+    width: 100%;
+  }
+  .hour {
+    padding-left: 0px;
+    font-size: 13px;
+  }
+}
+
+@media screen and (max-width: 845px) {
+  .hour {
+    padding-left: 0px;
+    font-size: 13px;
+  }
+  .description {
+    width: 33% !important;
+  }
+}
