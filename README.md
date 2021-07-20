@@ -15,7 +15,7 @@ of the day with dynamic features with the time of day coloring for the textarea,
 
 # Application Screenshot
 
-![Weather App](./img/example.png)
+![Work Day App](./img/example.png)
 
 # Github Pages link
 
