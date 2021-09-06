@@ -1,7 +1,5 @@
 # Work_Day_Scheduler
 
-Homework_5
-
 # Description / Overview
 
 Simple calendar application that allows users to input events for each hour
